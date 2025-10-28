@@ -8,6 +8,12 @@ I'm a Computer Science (MSc) student and AI researcher passionate about building
 
 My work sits at the intersection of **LLM Interpretability** and **Cognitively-Inspired AI**. I explore how to build better models by integrating human inductive biases and symbolic reasoning structures into neural networks. My research is grounded in concept-based interpretability and is now expanding toward neurosymbolic architectures and program generation.
 
+## 📊 My GitHub Stats
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=msmrexe&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmrexe&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 📫 Let's Connect!
@@ -17,6 +23,7 @@ I'm always open to discussing research, new ideas, or collaboration.
 * **Personal Website:** [msmaryamrezaee@gmail.com](msmaryamrezaee@gmail.com)
 * **Email:** [ms.maryamrezaee@gmail.com](mailto:ms.maryamrezaee@gmail.com)
 * **Telegran:** [@msmrexe](https://t.me/msmrexe)
+
 
 <!--
 ---
