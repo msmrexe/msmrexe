@@ -20,7 +20,7 @@ My work sits at the intersection of **LLM Interpretability** and **Cognitively-I
 
 I'm always open to discussing research, new ideas, or collaboration.
 
-* **Personal Website:** [msmaryamrezaee.github.io](msmaryamrezaee.github.io)
+* **Personal Website:** [msmaryamrezaee.github.io](https://msmaryamrezaee.github.io)
 * **Email:** [ms.maryamrezaee@gmail.com](mailto:ms.maryamrezaee@gmail.com)
 * **Telegran:** [@msmrexe](https://t.me/msmrexe)
 
