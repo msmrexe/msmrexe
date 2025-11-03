@@ -19,52 +19,54 @@ My core interest lies at the intersection of machine learning and human cognitio
 
 ### 🛠️ My Tech Stack
 
-<details>
-  <summary>⠀AI & Machine Learning</summary>
-  <p align="center">
-    <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"></a>
-    <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch"></a>
-    <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow"></a>
-    <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface" height="30" alt="Hugging Face"></a>
-    <a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn" height="30" alt="Scikit-learn"></a>
-    <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy"></a>
-    <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas"></a>
-  </p>
-</details>
-
-<details>
-  <summary>⠀Other Languages & Databases</summary>
-  <p align="center">
-    <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"></a>
-    <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R"></a>
-    <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30" alt="MATLAB"></a>
-    <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="30" alt="Bash"></a>
-    <a href="https://riscv.org/"><img src="https://cdn.simpleicons.org/riscv" height="30" alt="RISC-V"></a>
-    <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"></a>
-  </p>
-</details>
-
-<details>
-  <summary>⠀Design & Illustration</summary>
-  <p align="center">
-    <a href="https://www.adobe.com/products/illustrator.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Illustrator"></a>
-    <a href="https://www.adobe.com/products/indesign.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" height="30" alt="InDesign"></a>
-    <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="30" alt="Photoshop"></a>
-    <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"></a>
-  </p>
-</details>
-
-<details>
-  <summary>⠀Tools & Platforms</summary>
-  <p align="center">
-    <a href="https://www.latex-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="LaTeX"></a>
-    <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"></a>
-    <a href="https://github.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="30" alt="GitHub"></a>
-    <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode"></a>
-  </p>
-</details>
+<blockquote>
+  <details>
+    <summary>⠀AI & Machine Learning</summary>
+    <p align="center">
+      <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"></a>
+      <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch"></a>
+      <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow"></a>
+      <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface" height="30" alt="Hugging Face"></a>
+      <a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn" height="30" alt="Scikit-learn"></a>
+      <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy"></a>
+      <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas"></a>
+    </p>
+  </details>
+  
+  <details>
+    <summary>⠀Other Languages & Databases</summary>
+    <p align="center">
+      <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"></a>
+      <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R"></a>
+      <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30" alt="MATLAB"></a>
+      <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="30" alt="Bash"></a>
+      <a href="https://riscv.org/"><img src="https://cdn.simpleicons.org/riscv" height="30" alt="RISC-V"></a>
+      <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"></a>
+    </p>
+  </details>
+  
+  <details>
+    <summary>⠀Design & Illustration</summary>
+    <p align="center">
+      <a href="https://www.adobe.com/products/illustrator.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Illustrator"></a>
+      <a href="https://www.adobe.com/products/indesign.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" height="30" alt="InDesign"></a>
+      <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="30" alt="Photoshop"></a>
+      <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"></a>
+    </p>
+  </details>
+  
+  <details>
+    <summary>⠀Tools & Platforms</summary>
+    <p align="center">
+      <a href="https://www.latex-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="LaTeX"></a>
+      <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"></a>
+      <a href="https://github.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="30" alt="GitHub"></a>
+      <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode"></a>
+    </p>
+  </details>
+</blockquote>
 
 <!--
 ## Featured Projects
@@ -115,7 +117,7 @@ I'm always excited to connect with fellow researchers, developers, and creative 
 
 - **Portfolio:** [msmaryamrezaee.github.io](https://msmaryamrezaee.github.io)
 - **Email:** [ms.maryamrezaee@gmail.com](mailto:ms.maryamrezaee@gmail.com)
-- **Telegran:** [@msmrexe](https://t.me/msmrexe)
+- **Telegram:** [@msmrexe](https://t.me/msmrexe)
 
 <!--
 ---
