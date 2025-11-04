@@ -1,8 +1,6 @@
 # 🐳 From Mer to Earth: Greetings, earthling!
 
-<!--
-<img src="[Optional: URL to a header image/banner]" alt="A banner image for my profile">
--->
+<img src="banner.gif" alt="MR Banner">
 
 I'm a computer science researcher specializing in LLM Interpretability and Cognitively-Inspired AI. I'm passionate about building models that are not only powerful but also logically understandable. Though I should add, I do tend to diverge and dabble in a quite a few more passion projects or fascinating alogithmic questions as well. :)
 
