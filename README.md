@@ -1,6 +1,8 @@
 # 🐳 From Mer to Earth: Greetings, earthling!
 
-<img src="banner.gif" alt="MR Banner">
+<a href="https://msmaryamrezaee.github.io">
+  <img src="banner.gif" alt="MR Banner">
+</a>
 
 I'm a computer science researcher specializing in LLM Interpretability and Cognitively-Inspired AI. I'm passionate about building models that are not only powerful but also logically understandable. Though I should add, I do tend to diverge and dabble in a quite a few more passion projects or fascinating alogithmic questions as well. :)
 
