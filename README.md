@@ -1,4 +1,4 @@
-# 🐳 From Mer to Earth: Greetings, earthling!
+# 🐳 From Mer to Earth: Greetings, earthling!
 
 <a href="https://msmaryamrezaee.github.io">
   <img src="banner.gif" alt="MR Banner">
@@ -8,16 +8,16 @@ I'm a computer science researcher specializing in LLM Interpretability and Cogni
 
 ### Current Highlights of My Life
 
-- 🔎 Finishing my Master's thesis on *generative model interpretability* (the repository is still private, whoops).
-- 🧠 Leading the design of an extremely fun and challenging *educational C.S. game* for bachelor students.
-- 🔭 Exploring *concept-based interpretability* methods for RAG systems as a research mentor.
-- 🤖 And of course, beginning my journey into *Neurosymbolic AI* for my future PhD.
+- 🔎 Finishing my Master's thesis on *generative model interpretability* (the repository is still private, whoops).
+- 🧠 Leading the design of an extremely fun and challenging *educational C.S. game* for bachelor students.
+- 🔭 Exploring *concept-based interpretability* methods for RAG systems as a research mentor.
+- 🤖 And of course, beginning my journey into *Neurosymbolic AI* for my future PhD.
 
 ## About Me
 
 My core interest lies at the intersection of machine learning and human cognition; I've been diving deeply into both, and mean to merge conceptual models of the human cognition with the design of ML systems to improve how models *think* and hopefully perform. When I'm not working on research, I enjoy creative coding, developing tools for other developers (like VSCode themes), and applying mathematical concepts to practical programming challenges.
 
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack
 
 <blockquote>
   <details>
@@ -68,23 +68,6 @@ My core interest lies at the intersection of machine learning and human cognitio
   </details>
 </blockquote>
 
-<!--
-## Featured Projects
-
-### 🔬 AI Research
-- **[Concept-Based Interpretability for RAG](link-to-repo)**: My ongoing research on using concept vectors to understand what RAG models retrieve and generate.
-- **[Master's Thesis: Interpretability in LLMs](link-to-repo-or-website)**: Investigating the internal mechanisms of output generation in large language models.
-- **[ESCI: Energy-Based Concept Interpretation](link-to-repo)**: A framework for interpreting black-box LLM responses.
-
-### 💻 University & Course Projects
-- **[Image Colorization with VAEs](link-to-repo)**: A project from my M.S. Machine Learning course implementing a Variational Autoencoder for image colorization.
-- **[PostgreSQL Database Project](link-to-repo)**: Designed and implemented a relational database for a mathematical databases course.
-- **[RSA Encryption in Python](link-to-repo)**: A from-scratch implementation of the RSA encryption algorithm.
-
-### 🎨 Creative & Passion Projects
-- **[My-Cool-Theme for VSCode](link-to-repo-or-marketplace)**: A popular dark theme I developed for Visual Studio Code.
--->
-
 ## My GitHub Stats
 
 <!--
@@ -111,7 +94,7 @@ My core interest lies at the intersection of machine learning and human cognitio
 
 ---
 
-## 📫 Get In Touch
+## 📫 Get In Touch
 
 I'm always excited to connect with fellow researchers, developers, and creative minds. Whether you have a question about my work, spot a fascinating problem, or just want to discuss the future of AI and cognition, please don't hesitate to reach out. You can find me here:
 
@@ -141,27 +124,19 @@ I'm always excited to connect with fellow researchers, developers, and creative 
 
 ---
 
-### 🛠️ My Tech Stack
+## Featured Projects
 
-Here are some of the tools and technologies I work with:
+### 🔬 AI Research
+- **[Concept-Based Interpretability for RAG](link-to-repo)**: My ongoing research on using concept vectors to understand what RAG models retrieve and generate.
+- **[Master's Thesis: Interpretability in LLMs](link-to-repo-or-website)**: Investigating the internal mechanisms of output generation in large language models.
+- **[ESCI: Energy-Based Concept Interpretation](link-to-repo)**: A framework for interpreting black-box LLM responses.
 
-* **Languages:** [Python, C++, etc.]
-* **ML/DL Frameworks:** [PyTorch, TensorFlow, JAX, scikit-learn]
-* **Tools:** [Git, Docker, LaTeX, Weights & Biases]
-* **Interests:** [List a few non-technical interests to add warmth, e.g., "Graphic Design," "Reading Sci-Fi," "Hiking"]
--->
+### 💻 University & Course Projects
+- **[Image Colorization with VAEs](link-to-repo)**: A project from my M.S. Machine Learning course implementing a Variational Autoencoder for image colorization.
+- **[PostgreSQL Database Project](link-to-repo)**: Designed and implemented a relational database for a mathematical databases course.
+- **[RSA Encryption in Python](link-to-repo)**: A from-scratch implementation of the RSA encryption algorithm.
 
-<!--
-**msmrexe/msmrexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Creative & Passion Projects
+- **[My-Cool-Theme for VSCode](link-to-repo-or-marketplace)**: A popular dark theme I developed for Visual Studio Code.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
