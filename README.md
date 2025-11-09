@@ -4,12 +4,12 @@
   <img src="banner.gif" alt="MR Banner">
 </a>
 
-I'm a computer science researcher specializing in LLM Interpretability and Cognitively-Inspired AI. I'm passionate about building models that are not only powerful but also logically understandable. Though I should add, I do tend to diverge and dabble in a quite a few more passion projects or fascinating alogithmic questions as well. :)
+I'm a computer science researcher specialising in LLM Interpretability and Cognitively-Inspired AI. I'm passionate about building models that are not only powerful but also logically understandable. Though I should add, I do tend to diverge and dabble in a quite a few more passion projects or fascinating algorithmic questions as well. :)
 
 ### Current Highlights of My Life
 
 - 🔎 Finishing my Master's thesis on *generative model interpretability* (the repository is still private, whoops).
-- 🧠 Leading the design of an extremely fun and challenging *educational C.S. game* for bachelor students.
+- 🧠 Leading the design of an extremely fun and challenging *educational C.S. game* for undergraduate students.
 - 🔭 Exploring *concept-based interpretability* methods for RAG systems as a research mentor.
 - 🤖 And of course, beginning my journey into *Neurosymbolic AI* for my future PhD.
 
