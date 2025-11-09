@@ -48,7 +48,7 @@ My core interest lies at the intersection of machine learning and human cognitio
   <details>
     <summary>⠀Design & Illustration</summary>
     <p align="center">
-      <a href="https://www.adobe.com/products/illustrator.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="30" alt="Illustrator"></a>
+      <a href="https://www.adobe.com/products/illustrator.html"><img src="adobe-illustrator.svg" height="30" alt="Illustrator"></a>
       <a href="https://www.adobe.com/products/indesign.html"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" height="30" alt="InDesign"></a>
       <a href="https://www.adobe.com/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="30" alt="Photoshop"></a>
       <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"></a>
