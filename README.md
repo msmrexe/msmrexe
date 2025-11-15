@@ -1,6 +1,6 @@
 # 🐳 From Mer to Earth: Greetings, earthling!
 
-<a href="https://msmaryamrezaee.github.io">
+<a href="https://msmaryamrezaee.github.io" target="_blank">
   <img src="banner.gif" alt="MR Banner">
 </a>
 
