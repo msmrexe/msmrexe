@@ -73,18 +73,20 @@ My core interest lies at the intersection of machine learning and human cognitio
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msmrexe&theme=radical" alt="Profile Details" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msmrexe&theme=radical" alt="Profile Details" />
 </p>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=msmrexe&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=Organizations,Commits,Repositories,Stars,Experience&column=5" alt="Maryam's Trophies" />
+    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=msmrexe&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=Organizations,Commits,Repositories,Stars,Experience&column=5" alt="Maryam's Trophies" />
   </a>
 </div>
 
+<br>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msmrexe&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msmrexe&theme=radical" alt="Most Commits" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msmrexe&theme=radical" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msmrexe&theme=radical" alt="Most Commits" />
 </p>
 
 <!--
