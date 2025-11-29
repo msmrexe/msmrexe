@@ -72,7 +72,7 @@ My core interest lies at the intersection of machine learning and human cognitio
 
 <br>
 
-<table align="center" width="600">
+<table align="center" width="500">
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msmrexe&theme=radical" />
