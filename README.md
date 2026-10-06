@@ -1,6 +1,6 @@
 # 🐳 From Mer to Earth: Greetings, earthling!
 
-<a href="https://msmaryamrezaee.github.io" target="_blank">
+<a href="https://maryamrezaee.me" target="_blank">
   <img src="banner.gif" alt="MR Banner">
 </a>
 
@@ -144,7 +144,7 @@ My core interest lies at the intersection of machine learning and human cognitio
 
 I'm always excited to connect with fellow researchers, developers, and creative minds. Whether you have a question about my work, spot a fascinating problem, or just want to discuss the future of AI and cognition, please don't hesitate to reach out. You can find me here:
 
-- **Portfolio:** [msmaryamrezaee.github.io](https://msmaryamrezaee.github.io)
+- **Website:** [maryamrezaee.me](https://maryamrezaee.me)
 - **Email:** [ms.maryamrezaee@gmail.com](mailto:ms.maryamrezaee@gmail.com)
 - **Telegram:** [@msmrexe](https://t.me/msmrexe)
 
